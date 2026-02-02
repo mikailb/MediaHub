@@ -86,6 +86,3 @@ npm run dev
 | GET | `/api/watchlist` | Get watchlist |
 | POST | `/api/watchlist/movies/{id}` | Add to watchlist |
 
-## License
-
-MIT License
